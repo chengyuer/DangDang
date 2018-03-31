@@ -1,0 +1,724 @@
+1509706205554	geckodriver	INFO	geckodriver 0.19.0
+1509706205582	geckodriver	INFO	Listening on 127.0.0.1:61249
+1509706207662	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox.exe" "-marionette" "-pro1509706208450	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox1509706208810	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 1509706209415	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modu1509706211071	Marionette	INFO	Enabled via --marionette
+1509706220400	Marionette	INFO	Listening on port 61264
+1509706220520	Marionette	WARN	TLS certificate errors wi1509706222472	Marionette	INFO	Listening on port 61273
+1509706222662	Marionette	INFO	Listening on port 61273
+1509706223054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509706223300	Marionette	DEBUG	loaded listener.js
+1509706223407	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509706223666	Marionette	DEBUG	Received DOM even1509706227396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/206906251509706231158	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/25072421.html"
+1509706234409	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+150971509706265915	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509706265991	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/25072421.html"
+1509706266004	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/25072421.html"
+1509706266005	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/25072421.html"
+1509706266008	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/25072421.html"
+1509706266729	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706266742	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706267049	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509706270089	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=u561lri3f26edmhospadi0scuk"
+1509706270585	Marionette	DEBUG	Received DOM event "pageshow" for "http://media1.ddimg.cn1509706358176	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509706358184	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509706376663	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+"http://ckmap.mediav.com/b?type=10"
+1509706301746	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509706320958	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509706326989	geckodriver	INFO	geckodriver 0.19.0
+1509706327057	geckodriver	INFO	Listening on 127.0.0.1:62131
+1509706329056	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.x94k9XWIwtiv"
+1509706330616	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///F:/software/firefox/omni.ja!/components/addonManager.js:65
+1509706333967	Marionette	INFO	Enabled via --marionette
+[Child 24476] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24476] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509706345588	Marionette	INFO	Listening on port 62137
+1509706345843	Marionette	INFO	Listening on port 62137
+1509706346665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509706346879	Marionette	DEBUG	loaded listener.js
+1509706346949	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509706347205	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509706347206	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509706354317	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/25126128.html"
+1509706354322	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/25126128.html"
+1509706359833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509706360015	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/25126128.html"
+1509706360023	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/25126128.html"
+1509706360055	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/25126128.html"
+1509706360060	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/25126128.html"
+1509706362870	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706362886	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706363595	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509706366107	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=7u6d6rnqm0vhvphaid3mh89j1g"
+1509706366188	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=7u6d6rnqm0vhvphaid3mh89j1g"
+1509706372667	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509706383655	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509706402625	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+xe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.6ndshKywy0fx"
+1509706387196	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///F:/software/firefox/omni.ja!/components/addonManager.js:65
+1509706392037	Marionette	INFO	Enabled via --marionette
+[Parent 33604] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509706405705	Marionette	INFO	Listening on port 62407
+1509706405748	Marionette	INFO	Listening on port 62407
+1509706406837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509706407676	Marionette	DEBUG	loaded listener.js
+1509706408092	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509706408556	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509706408556	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509706411397	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23964981150970641509706411540	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23964981.html"
+1509706417972	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509706417979	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23964981.html"
+1509706417993	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23964981.html"
+1509706417996	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23964981.html"
+1509706417999	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23964981.html"
+1509706419342	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706419350	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706419800	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509706423594	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=eudl4e37lf[GPU 67988] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509706427653	Marionette	INFO	Listening on port 6261509706431015	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509706452510	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+09706428149	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509706428741	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509706428742	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509706437012	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23778791.html"
+1509706437094	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23778791.html"
+1509706438226	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23778791.html"
+1509706438234	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23778791.html"
+1509706438790	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509706438815	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23778791.html"
+1509706438821	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23778791.html"
+1509706439319	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706439325	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706441128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509706442644	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=5tgh71diabsldr6s7bom7o90j4"
+1509706449746	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=5tgh71diabsldr6s7bom7o90j4"
+1509706485326	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509706485331	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509706503579	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+RZxa"
+1509706473748	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///F:/software/firefox/omni.ja!/components/addonManager.js:65
+1509706476462	Marionette	INFO	Enabled via --marionette
+[Child 88832] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 88832] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509706487004	Marionette	INFO	Listening on port 62949
+1509706487073	Marionette	INFO	Listening on port 62949
+1509706487707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509706488085	Marionette	DEBUG	loaded listener.js
+1509706488183	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509706488622	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509706488623	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509706491692	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23950912.html"
+1509706491700	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23950912.html"
+1509706494692	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509706494697	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23950912.html"
+1509706494713	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23950912.html"
+1509706494877	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23950912.html"
+1509706494885	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23950912.html"
+1509706495801	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706495807	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706496096	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509706497946	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=okd2jir3k5tnbsh660g664ljks"
+1509706498751	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=okd2jir3k5tnbsh660g664ljks"
+1509706518155	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509706518161	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509706537068	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Oxbe"
+1509706512455	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///F:/software/firefox/omni.ja!/components/addonManager.js:65
+1509706514083	Marionette	INFO	Enabled via --marionette
+1509706520051	Marionette	INFO	Listening on port 63379
+1509706520537	Marionette	INFO	Listening on port 63379
+1509706520723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509706520889	Marionette	DEBUG	loaded listener.js
+1509706520998	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509706521228	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509706521228	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509706527041	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23170830.html"
+1509706527048	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23170830.html"
+1509706532796	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509706532824	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23170830.html"
+1509706532833	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23170830.html"
+1509706532834	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23170830.html"
+1509706532851	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23170830.html"
+1509706534783	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706534873	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706535160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509706537657	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=9ehvii5i4h8di9m35ucrur6hm4"
+1509706537974	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=9ehvii5i4h8di9m35ucrur6hm4"
+1509706540646	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509706542700	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+706538160	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509706542892	Marionette	DEBUG	Received DOM event 1509706542963	geckodriver	INFO	Listening on 127.0.0.1:63761
+1509706544939	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.04y7sTjUjFMa"
+1509706548334	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///F:/software/firefox/omni.ja!/components/addonManager.js:65
+1509706552459	Marionette	INFO	Enabled via --marionette
+uda0539i402ehu0g"
+1509706551052	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=ee5gs2e3h5uda0539i402ehu0g"
+1509706613499	geckodriver	INFO	geckodriver 0.19.0
+1509706613527	geckodriver	INFO	Listening on 127.0.0.1:64043
+1509706615589	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox.exe" "-marionette" "-pro1509706616426	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox1509706617351	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE1509706617562	mozrunner::runner	INFO	Running comma1509706617576	mozrunner::runner	INF1509706618063	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 1509706618859	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.1509706619808	Marionette	INFO	Enabled via --marionette
+1509706631136	Marionette	INFO	Listening on port 64059
+1509706631575	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509706631786	Marionette	INFO	Listening on port 64059
+1509706631943	Marionett1509706632896	Marionette	INFO	Listening on port 64078
+1509706633109	Marionette	INFO	Listening on port 64078
+1509706642687	Marionette	INFO	Listening on port 64085
+1509706643021	Marionette	INFO	Listening on port 64085
+1509706643283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509706643524	Marionette	DEBUG	loaded listener.js
+1509706643704	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509706643923	Marionette	DEBUG	Received DOM event "pageh1509706643923	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/1509706665455	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23694647.html"
+1509706674073	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+150971509706685659	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509706685977	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23694647.html"
+1509706685993	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23694647.html"
+1509706685996	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23694647.html"
+1509706686005	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23694647.html"
+1509706687646	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706687653	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706690164	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509706693389	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "1509706705335	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509706718578	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509706737109	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+d=g2j76tqgl266u06fu3sgld84v4"
+1509706723566	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509706734614	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509706752908	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+707823	geckodriver	INFO	Listening on 127.0.0.1:65504
+1509706709807	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.iXBd2j4NWYKy"
+1509706711358	addons.xpi	WARN	Error parsing extens1509706711396	geckodriver	INFO	Listening on 127.0.0.1:49190
+1509706713500	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.0jVcM3WnQEf4"
+1509706714611	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startPro1509706721859	Marionette	INFO	Listening on port 49181
+1509706722019	Marionette	INFO	Listening on port 49181
+1509706722872	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509706722962	Marionette	DEBUG	loaded listener.js
+1509706723020	Marionette	DEBUG	Received DOM event "before1509706728193	Marionette	INFO	Listening on port 49198
+1509706728298	Marionette	INFO	Listening on port 49198
+1509706729217	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509706729363	Marionette	DEBUG	loaded listener.js
+1509706729443	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509706729882	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509706729882	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509706734635	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/20039611.html"
+1509706734640	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/20039611.html"
+1509706746336	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509706746345	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/20039611.html"
+1509706746380	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/20039611.html"
+1509706746390	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/20039611.html"
+1509706746393	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/20039611.html"
+1509706747636	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509706753836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706753847	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706758287	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=56tj8dakhk1pq187u6nvlg9v1509706758777	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509706777043	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+g.com/"
+1509706763038	Marionette	DEBUG	Received DO1509706772211	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509706791414	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+52	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/24192784.html"
+1509706763056	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/24192784.html"
+1509706766482	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509706766584	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706766595	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706770285	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=qp63cisccnpd21u54ljbof6104"
+1509706789605	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=qp63cisccnpd21u54ljbof6104"
+1509706796331	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+in.cc, line 346
+1509706762919	Marionette	INFO	Listening on port 49635
+1509706762932	Marionette	INFO	Listening on port 49635
+1509706763722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509706764194	Marionette	DEBUG	loaded listener.js
+1509706764258	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509706771692	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509706771693	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509706804408	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/9319968.html"
+1509706804412	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/9319968.html"
+mponent returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///F:/software/firefox/omni.ja!/components/addonManager.js:65
+1509706774962	Marionette	INFO	Enabled via --marionette
+[Child 7316] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7316] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509706781538	Marionette	INFO	Listening on port 49960
+1509706781702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509706781846	Marionette	INFO	Listening on port 49960
+1509706782738	Marionette	DEBUG	loaded listener.js
+1509706782808	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509706784515	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509706784515	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509706791211	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/24030562.html"
+1509706791358	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/24030562.html"
+1509706816402	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509706816404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/24030562.html"
+1509706816421	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/24030562.html"
+1509706816422	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/24030562.html"
+1509706816429	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/24030562.html"
+1509706818419	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509706826864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=4r05udpid8uv8bcufm6ppm8kp4"
+1509706826874	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=4r05udpid8uv8bcufm6ppm8kp4"
+1509706827662	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706827673	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706830418	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupDat1509706808435	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/21057878.html"
+1509706808438	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/21057878.html"
+1509706816057	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509706816065	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/21057878.html"
+1509706816100	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/21057878.html"
+1509706816220	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/21057878.html"
+1509706816229	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/21057878.html"
+1509706816812	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706816819	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706817180	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509706822129	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=r21pave0v61tfcu80tk6ho721o"
+1509706825884	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=r21pave0v61tfcu80tk6ho721o"
+1509706920306	geckodriver	INFO	geckodriver 0.19.0
+1509706920322	geckodriver	INFO	Listening on 127.0.0.1:50803
+1509706922474	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox.exe" "-marionette" "-pro1509706923288	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox.exe" "-marionette" "-pro1509706923581	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox1509706924208	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 1509706924518	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/module1509706924756	Marionette	INFO	Enabled via --marionette
+[Child 47940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc[Child 86792] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc[GPU 76132] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509706937416	Marionette	INFO	Listening on port 50828
+1509706937560	Marionette	INFO	Listening on port 50828
+1509706938322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509706938486	Marionette	DEBUG	loaded listener.js
+1509706938581	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509706939214	Marionette	DEBUG	Received DOM event 1509706943864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/2508141509706976651	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23990140.html"
+1509706976739	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23990140.html"
+1509706985845	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23990140.html"
+1509706985852	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23990140.html"
+1509706985853	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23990140.html"
+1509706985855	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23990140.html"
+1509706986107	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509706986936	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706986943	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509706988092	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509706988986	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=ra6s4clkpkrtjc1q74tf87sbg0"
+1509706989194	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=ra6s4clkpkrtjc1q74tf87sbg0"
+1509706991511	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+uct.dangdang.com/"
+1509707038317	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509706990861	geckodriver	INFO	Listening on 127.0.0.1:51550
+1509706992896	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.cI3PnMY4PJgq"
+1509706993623	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///F:/software/firefox/omni.ja!/components/addonManager.js:65
+1509706994887	Marionette	INFO	Enabled via --marionette
+1509707001450	Marionette	INFO	Listening on port 51559
+1509707001519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509707001557	Marionette	INFO	Listening on port 51559
+1509707001605	Marionette	DEBUG	loaded listener.js
+1509707001659	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509707001821	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509707001821	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509707003747	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23694647.html"
+1509707003756	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23694647.html"
+1509707006675	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509707006676	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23694647.html"
+1509707006686	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23694647.html"
+1509707006690	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23694647.html"
+1509707006694	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23694647.html"
+1509707009939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707009956	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707014437	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509707022283	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=2o2gdgpet03lolshqfnrhctiso"
+1509707022289	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=2o2gdgpet03lolshqfnrhctiso"
+1509707061279	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509707061284	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509707079539	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+rror: http://product.dangdang.com/js/item.js, line 162: ReferenceError: jQuery is not defined
+1509707039482	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23715237.html"
+1509707039501	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23715237.html"
+JavaScript error: http://product.dangdang.com/??js/dcutil.min.js,js/ddutil.min.js,js/operation.min.js,js/mainImg.min.js,js/cookie.min.js,js/freight.min.js,js/shop.min.js,js/price.min.js,js/geo.min.js,js/detail.min.js,js/comment.min.js,js/question.min.js,js/promotion.min.js,js/coupon.min.js,js/recommend.min.js,js/online.min.js,js/search.min.js,js/bang.min.js,js/productsList.min.js,js/writeComment.min.js,js/init.min.js?v=31405595150, line 7: ReferenceError: jQuery is not defined
+JavaScript error: http://product.dangdang.com/js/lib/layer/3.0.3/layer.min.js, line 42: TypeError: h is not a function
+JavaScript error: http://recosys.dangdang.com/realdata/js/product/collect.js?20171103, line 761: ReferenceError: jQuery is not defined
+JavaScript error: http://product.dangdang.com/23715237.html, line 1432: ReferenceError: $ is not defined
+1509707044379	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23715237.html"
+1509707044388	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23715237.html"
+JavaScript error: http://product.dangdang.com/23715237.html, line 1695: ReferenceError: $ is not defined
+1509707044435	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23715237.html"
+1509707044436	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23715237.html"
+1509707044444	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23715237.html"
+1509707044882	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707044888	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707044892	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23715237.html"
+[Parent 12604] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ata\\Local\\Temp\\rust_mozprofile.j8MjU1QsOvkq"
+1509707048795	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///F:/software/firefox/omni.ja!/components/addonManager.js:65
+1509707050157	Marionette	INFO	Enabled via --marionette
+[Child 94820] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 94820] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509707055408	Marionette	INFO	Listening on port 52268
+1509707055457	Marionette	INFO	Listening on port 52268
+1509707055786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509707055864	Marionette	DEBUG	loaded listener.js
+1509707055895	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509707056065	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509707056066	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509707056985	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23812473.html"
+1509707057250	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23812473.html"
+1509707062855	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/238124731509707064313	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.HComs4UuVtWW"
+1509707065230	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trac1509707065919	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=svamv9a75bbnbhukbn1gp969go"
+1509707068954	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707068967	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707072737	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=svamv9a75bbnbhukbn1gp969go"
+1509707072740	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509707072744	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509707091053	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+ing on port 52398
+1509707072161	Marionette	DEBUG	loaded listener.js
+1509707072304	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509707072488	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509707072489	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509707074897	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/20039611.html"
+1509707074984	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/20039611.html"
+1509707077648	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509707077650	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/20039611.html"
+1509707077658	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/20039611.html"
+1509707077659	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/20039611.html"
+1509707077663	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/20039611.html"
+1509707083764	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509707087439	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.1509707088409	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Admi1509707090118	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=1d13av7625nvrpoipqpmvtt8gs"
+1509707090133	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=1d13av7625nvrpoipqpmvtt8gs"
+1509707091098	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509707091101	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509707109376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///F:/software/firefox/omni.ja!/components/addonManager.js:65
+1509707091063	Marionette	INFO	Enabled via --marionette
+1509707097061	Marionette	INFO	Listening on port 52675
+1509707097117	Marionette	INFO	Listening on port 52675
+1509707097949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509707098069	Marionette	DEBUG	loaded listener.js
+1509707098152	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509707098559	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509707098559	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509707103618	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/24192784.html"
+1509707103623	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/24192784.html"
+1509707118393	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509707118472	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/24192784.html"
+1509707118479	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/24192784.html"
+1509707118483	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/24192784.html"
+1509707118485	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/24192784.html"
+1509707119279	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509707119529	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707119540	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707125157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=m5d1gk8prrf4rpa7fjjim28h2c"
+1509707127139	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=m5d1gk8prrf4rpa7fjjim28h2c"
+1509707130393	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509707154037	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509707172240	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+EBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/9319968.html"
+1509707124131	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/9319968.html"
+1509707135347	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/9319968.html"
+1509707135356	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/9319968.html"
+1509707135357	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/9319968.html"
+1509707135360	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/9319968.html"
+1509707135728	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509707138537	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509707138688	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707138699	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707142312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=tlli7ii3ntloaeiejjufu2f118"
+1509707142329	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=tlli7ii3ntloaeiejjufu2f118"
+1509707149061	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509707173316	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1509707129370	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509707129371	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509707137004	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/24030562.html"
+1509707137109	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/24030562.html"
+1509707142441	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509707142442	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/24030562.html"
+1509707142452	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/24030562.html"
+1509707142453	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/24030562.html"
+1509707142456	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/24030562.html"
+1509707142865	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707142893	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707143907	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509707144898	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=8uenf75dk4a44cpb1i9hcco84o"
+1509707151151	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=8uenf75dk4a44cpb1i9hcco84o"
+1509707151604	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509707165975	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509707184221	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+0.1:63981
+1509707180801	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.Gs5FKbYb5TP7"
+1509707181638	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///F:/software/firefox/omni.ja!/components/addonManager.js:65
+1509707183117	Marionette	INFO	Enabled via --marionette
+1509707187227	Marionette	INFO	Listening on port 64049
+1509707187280	Marionette	INFO	Listening on port 64049
+1509707188252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509707188328	Marionette	DEBUG	loaded listener.js
+1509707188357	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509707188522	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509707188522	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509707190496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/21057878.html"
+1509707190500	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/21057878.html"
+1509707193566	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509707193618	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/21057878.html1509707194002	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox1509707194426	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 1509707195682	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProv1509707205304	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=bfhn1g4mkf1dmqpnbmv0hrslqg"
+1509707205312	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=bfhn1g4mkf1dmqpnbmv0hrslqg"
+1509707205316	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509707205321	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509707223940	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+060	Marionette	INFO	Listening on port 64180
+1509707206199	Marionette	INFO	Listening on port 64180
+1509707206737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509707206906	M1509707210879	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23608680.html"
+1509707210883	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23608680.html"
+1509707231626	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509707231627	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23608680.html"
+1509707231636	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23608680.html"
+1509707231638	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23608680.html"
+1509707231644	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23608680.html"
+1509707235582	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707235590	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707236394	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509707237976	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=s5vqkgi7p3le201p1pa3in50ck"
+1509707238617	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=s5vqkgi7p3le201p1pa3in50ck"
+1509707242923	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509707242929	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509707261268	Marionette	DEBUG	Canceled page load listener because no navigatio1509707341438	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509707341443	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+[GPU 60296] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 38148] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 38148] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///F:/software/firefox/omni.ja!/components/addonManager.js:65
+1509707235882	Marionette	INFO	Enabled via --marionette
+1509707243917	Marionette	INFO	Listening on port 64797
+1509707244148	Marionette	INFO	Listening on port 64797
+1509707245013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509707248467	Marionette	DEBUG	loaded listener.js
+1509707248584	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509707248878	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509707248879	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509707252181	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/25100755.html"
+1509707252185	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/25100755.html"
+1509707268961	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+150971509707269977	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.TKGExaly1TlH"
+1509707271302	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS fr1509707271536	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509707271613	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707271624	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707273987	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=mo4evjhjt9j4ukmd8b6ofe8520"
+1509707276352	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=mo4evjhjt9j4ukmd8b6ofe8520"
+1509707299185	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509707303032	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509707321341	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+d for this session
+1509707278046	Marionette	INFO	Listening on port 65171
+1509707278101	Marionette	DEBUG	loaded listener.js
+1509707278161	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509707285360	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509707285360	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509707288698	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23822200.html"
+1509707288801	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23822200.html"
+1509707290626	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23822200.html"
+1509707290638	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23822200.html"
+1509707290639	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23822200.html"
+1509707290642	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23822200.html"
+1509707290881	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509707293134	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707293142	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707295102	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509707298761	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=iqm4kuuq5v9lmb40182pj60muk"
+1509707298802	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=iqm4kuuq5v9lmb40182pj60muk"
+1509707318962	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509707318967	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+[GPU 41840] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ppData\\Local\\Temp\\rust_mozprofile.vGHXBdnoWJ5a"
+1509707331931	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///F:/software/firefox/omni.ja!/components/addonManager.js:65
+1509707334058	Marionette	INFO	Enabled via --marionette
+1509707340904	Marionette	INFO	Listening on port 49153
+1509707340911	Marionette	INFO	Listening on port 49153
+1509707341305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509707341368	Marionette	DEBUG	loaded listener.js
+1509707341395	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509707341557	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509707341557	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509707345153	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/22864933.html"
+1509707345156	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/22864933.html"
+1509707346606	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509707346654	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/22864933.html"
+1509707346670	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/22864933.html"
+1509707346671	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/22864933.html"
+1509707346677	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/22864933.html"
+1509707347487	Marionette	DEBUG	Received DOM event[GPU 9692] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 60800] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509707355837	Marionette	INFO	Listening on port 49190
+1509707356067	Marionette	INFO	Listening on port 49190
+1509707357098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509707357246	Marionette	DEBUG	loaded listener.js
+1509707357397	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509707358643	Marionette	DEBUG	Received DO1509707601572	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1509707601573	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1509707601573	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1509707601574	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1509707601575	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1509707601576	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1509707601577	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483651"
+[GPU 75748] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+l"
+1509707369332	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707369349	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707370176	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509707374221	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=dh4ecgp2ug6g27bts5l5i3dl04"
+1509707374290	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=dh4ecgp2ug6g27bts5l5i3dl04"
+1509707380971	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509707380976	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509707399961	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+arionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509707373929	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509707379557	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/25063054.html"
+1509707379561	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/25063054.html"
+1509707381616	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509707381707	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/25063054.html"
+1509707381719	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/25063054.html"
+1509707381737	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/25063054.html"
+1509707381741	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/25063054.html"
+1509707382487	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707382494	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707382605	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509707384086	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=pl7dppqb5qvobajvog7tsgtj78"
+1509707386517	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=pl7dppqb5qvobajvog7tsgtj78"
+1509707388449	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509707422713	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+1509707441068	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+xe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.x7VTC0VsBZNn"
+1509707410698	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///F:/software/firefox/omni.ja!/components/addonManager.js:65
+1509707412401	Marionette	INFO	Enabled via --marionette
+1509707417442	Marionette	INFO	Listening on port 50011
+1509707417497	Marionette	INFO	Listening on port 50011
+1509707418509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509707418598	Marionette	DEBUG	loaded listener.js
+1509707418671	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509707418904	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509707418905	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509707420841	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/25119226.html"
+1509707420852	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/25119226.html"
+1509707422302	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509707423012	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/25119226.html"
+1509707423024	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/25119226.html"
+1509707423025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/25119226.html"
+1509707423029	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/25119226.html"
+1509707424806	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707424836	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707425515	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509707429799	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=dvgf72i51dfur9vlm05o6tvuo0"
+1509707429901	Marionette	DEBUG	Received DOM event "pageshow" for "http://media1.ddimg.cn/2017/8/31/2017083109435573376.mp4"
+1509707429984	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=dvgf72i51dfur9vlm05o6tvuo0"
+1509707498157	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509707498165	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile.rkyN65DmqCEr"
+1509707451836	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///F:/software/firefox/omni.ja!/components/addonManager.js:65
+1509707453230	Marionette	INFO	Enabled via --marionette
+1509707458175	Marionette	INFO	Listening on port 50320
+1509707458227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509707458266	Marionette	INFO	Listening on port 50320
+1509707458329	Marionette	DEBUG	loaded listener.js
+1509707458432	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509707458711	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509707458712	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509707468488	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/24033539.html"
+1509707468570	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/24033539.html"
+1509707480924	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509707480925	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/24033539.html"
+1509707480937	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/24033539.html"
+1509707480938	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/24033539.html"
+1509707480942	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/24033539.html"
+1509707482992	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509707483343	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707483362	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707485960	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=li0p98g96hf2f5gd819gjl0b5o"
+1509707485971	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=li0p98g96hf2f5gd819gjl0b5o"
+1509707489415	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509707535865	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+[Child 87748] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 87748] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///F:/software/firefox/omni.ja!/components/addonManager.js:65
+1509707521207	Marionette	INFO	Enabled via --marionette
+1509707528313	Marionette	INFO	Listening on port 50680
+1509707528348	Marionette	INFO	Listening on port 50680
+1509707529227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509707529346	Marionette	DEBUG	loaded listener.js
+1509707529435	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509707529963	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509707529963	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509707534298	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/20690625.html"
+1509707534391	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/20690625.html"
+1509707562254	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509707562256	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/20690625.html"
+1509707562309	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/20690625.html"
+1509707562314	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/20690625.html"
+1509707562323	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/20690625.html"
+1509707566229	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707566250	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707570378	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ckmap.mediav.com/b?type=10"
+1509707580371	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=c31au3rq1kmg1ffd980h4reks0"
+1509707580389	Marionette	DEBUG	Received DOM event "pageshow" for "https://3m.mediav.com/ckmap.htm#prefix=https://ckmap.mediav.com/m?thirdparty_id=1&thirdparty_cookie_id=c31au3rq1kmg1ffd980h4reks0"
+1509707583571	Marionette	DEBUG	Received DOM event "pageshow" for "http://ckmap.mediav.com/b?type=10"
+1509707591768	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/"
+[Child 103804] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+sion
+1509707571335	Marionette	DEBUG	loaded listener.js
+1509707571448	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509707571682	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509707571683	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509707575155	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23812468.html"
+1509707575158	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23812468.html"
+1509707589258	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509707589265	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23812468.html"
+1509707589277	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23812468.html"
+1509707589281	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23812468.html"
+1509707589284	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23812468.html"
+1509707594812	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707594825	Marionette	DEBUG	Received DOM event "pageshow" for "https://databack.dangdang.com/proxy.html?2017113"
+1509707597245	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1509707597246	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1509707597251	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1509707597261	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1509707597267	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483651"
+[GPU 17316] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1509707597759	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1509707599540	geckodriver	INFO	geckodriver 0.19.0
+1509707599626	geckodriver	INFO	Listening on 127.0.0.1:51369
+1509707601701	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox.exe" "-marionette" "-pro1509707603627	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox1509707609283	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 1509707609345	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modu1509707611698	Marionette	INFO	Enabled via --marionette
+tware/firefox/omni.ja!/components/addonManager.js:65
+1509707612051	Marionette	INFO	Enabled via --marionette
+vider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///F:/software/firefox/omni.ja!/components/addonManager.js:65
+1509707611661	Marionette	INFO	Enabled via --marionette
+1509707991385	geckodriver	INFO	geckodriver 0.19.0
+1509707991401	geckodriver	INFO	Listening on 127.0.0.1:51771
+1509707993506	mozrunner::runner	INFO	Running command: "F:\\software\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.2MzzXgaRvoc3"
+1509707994281	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///F:/software/firefox/omni.ja!/components/addonManager.js:65
+1509707995481	Marionette	INFO	Enabled via --marionette
+1509708000484	Marionette	INFO	Listening on port 51777
+1509708000606	Marionette	INFO	Listening on port 51777
+1509708000958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509708001055	Marionette	DEBUG	loaded listener.js
+1509708001094	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509708001235	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509708001235	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509708005686	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23761145.html"
+1509708005807	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23761145.html"
+1509708010484	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/"
+1509708010485	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23761145.html"
+1509708010512	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23761145.html"
+1509708010514	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://product.dangdang.com/23761145.html"
+1509708010523	Marionette	DEBUG	Received DOM event "pageshow" for "http://product.dangdang.com/23761145.1509708012095	Marionette	INFO	Listening on port 51796
+1509708012281	Marionette	INFO	Listening on port 51796
+1509708013639	Marionette	INFO	Listening on port 51802
+ll be ignored for this session
+1509708012715	Marionette	DEBUG	loaded listener.js
+1509708012791	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+map.mediav.com/b?type=10"
